@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_learning_journey=self.webpackChunkmy_learning_journey||[]).push([[4142],{8268:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/my-learning-journey/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
